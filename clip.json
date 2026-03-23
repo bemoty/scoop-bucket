@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bemoty/clip/releases/download/v0.5.0/clip_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/bemoty/clip/releases/download/v0.5.1/clip_0.5.1_windows_amd64.zip",
             "bin": [
                 "clipc.exe"
             ],
-            "hash": "941652c25ae1f3e675f98d21129917faea47c915fca66dcaa92ee0b71f1d8d46"
+            "hash": "f059c0c8aaac4babea200a8c3421dce98908050001a49767c1a16329c3a56bdd"
         }
     },
     "description": "Upload your clipboard for sharing"

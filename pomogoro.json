@@ -1,0 +1,20 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bemoty/pomogoro/releases/download/v0.0.3/pomogoro_0.0.3_windows_amd64.zip",
+            "bin": [
+                "pomogoro.exe"
+            ],
+            "hash": "695bc31ec2f7d254c62cece4f5d1c5428cd24c8d0497877dbbc2d0155f45ea85"
+        }
+    },
+    "homepage": "https://bemoty.dev",
+    "description": "Simple Pomodoro timer",
+    "shortcuts": [
+        [
+            "pomogoro.exe",
+            "pomogoro"
+        ]
+    ]
+}

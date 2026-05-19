@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bemoty/pomogoro/releases/download/v0.0.3/pomogoro_0.0.3_windows_amd64.zip",
+            "url": "https://github.com/bemoty/pomogoro/releases/download/v0.0.4/pomogoro_0.0.4_windows_amd64.zip",
             "bin": [
                 "pomogoro.exe"
             ],
-            "hash": "4c9d277ea4b24939e79d0185804b8bd60a858af03f23b90b9e59eccc1f30fb7f"
+            "hash": "e43307f1af04a1bd15a87132a4dde6d55bf5fced3a5b3338fa1f569962bf288d"
         }
     },
     "homepage": "https://bemoty.dev",

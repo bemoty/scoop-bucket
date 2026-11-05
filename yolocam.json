@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bemoty/yolocam/releases/download/v1.0.0/yolocam_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/bemoty/yolocam/releases/download/v1.1.0/yolocam_1.1.0_windows_amd64.zip",
             "bin": [
                 "yolocam.exe"
             ],
-            "hash": "77a8f1d2681af1000675c6c34c187259675e927da27b162840cdc68276717880"
+            "hash": "e19fd61ed09f44d41b3d136b8902ec3532a3c7de6e93a5e56347a5b3843e509a"
         },
         "arm64": {
-            "url": "https://github.com/bemoty/yolocam/releases/download/v1.0.0/yolocam_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/bemoty/yolocam/releases/download/v1.1.0/yolocam_1.1.0_windows_arm64.zip",
             "bin": [
                 "yolocam.exe"
             ],
-            "hash": "fb772ad64664e6dcafceed549db989628b9d3827fc7d3d54750b139939e71e3d"
+            "hash": "6db1ae5e2d561b66e582dba44659f9b779138fde95ede34fd31ada186bcb1e21"
         }
     },
     "homepage": "https://github.com/bemoty/yolocam",

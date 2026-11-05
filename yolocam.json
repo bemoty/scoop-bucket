@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bemoty/yolocam/releases/download/v1.0.0/yolocam_1.0.0_windows_amd64.zip",
+            "bin": [
+                "yolocam.exe"
+            ],
+            "hash": "261c34d824d4b5310b0d9565bf8da5d5f6de5030cd70b02afae3cd3716747cf0"
+        },
+        "arm64": {
+            "url": "https://github.com/bemoty/yolocam/releases/download/v1.0.0/yolocam_1.0.0_windows_arm64.zip",
+            "bin": [
+                "yolocam.exe"
+            ],
+            "hash": "a9799d3373ec58b649f420e40bd0c89479ff6f609f8d1e30b1380f286cd95213"
+        }
+    },
+    "homepage": "https://github.com/bemoty/yolocam",
+    "license": "Apache-2.0",
+    "description": "Control YoloLiv YoloCam S3 camera settings from the command line"
+}

@@ -6,14 +6,14 @@
             "bin": [
                 "yolocam.exe"
             ],
-            "hash": "261c34d824d4b5310b0d9565bf8da5d5f6de5030cd70b02afae3cd3716747cf0"
+            "hash": "77a8f1d2681af1000675c6c34c187259675e927da27b162840cdc68276717880"
         },
         "arm64": {
             "url": "https://github.com/bemoty/yolocam/releases/download/v1.0.0/yolocam_1.0.0_windows_arm64.zip",
             "bin": [
                 "yolocam.exe"
             ],
-            "hash": "a9799d3373ec58b649f420e40bd0c89479ff6f609f8d1e30b1380f286cd95213"
+            "hash": "fb772ad64664e6dcafceed549db989628b9d3827fc7d3d54750b139939e71e3d"
         }
     },
     "homepage": "https://github.com/bemoty/yolocam",
